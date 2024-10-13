@@ -1,0 +1,7 @@
+Descrição das Imagens:
+
+Na primeira imagem, observamos a notificação do Tag Assistant, indicando que a depuração das páginas está visível. 
+Isso confirma que a configuração do Google Tag Manager foi realizada com sucesso.
+
+A segunda imagem apresenta um resumo dos eventos da página, destacando os eventos personalizados. 
+Aqui, são demonstrados os eventos principais, como "SearchProduct" e "productsListing", que evidenciam as interações dos usuários com os elementos do site.
